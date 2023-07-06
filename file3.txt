@@ -1,1 +1,2 @@
 hello, this is file from branch 1
+merge this into main branch
